@@ -133,4 +133,4 @@
 
 
 Citations:
-[1] Modular Inc. "Mojo🔥 Roadmap & Sharp Edges," Modular, Accessed May 10, 2023, https://docs.modular.com/mojo/roadmap.html.
+[1] Modular Inc. Modular Docs - Mojo🔥 roadmap & sharp edges. Modular Inc. Accessed May 10, 2023, https://docs.modular.com/mojo/roadmap.html.
