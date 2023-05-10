@@ -282,3 +282,6 @@ Personal Note:
 So if you know what you're doing, you'll probably be wondering why we're starting at our foundations. And if you're wondering why we're starting with the foundations, then you and I have two different ways of seeing the world. I'm gonna leave it at that.
 
 To everyone else, welcome. Let me know how to be better.
+
+Citations:
+[1] Modular Inc. Modular Docs - Mojo🔥 roadmap & sharp edges. Modular Inc. Accessed May 10, 2023, https://docs.modular.com/mojo/roadmap.html.
