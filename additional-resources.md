@@ -1,0 +1,1 @@
+* **Additional Resources Guide:** This document offers additional exercises to practice developing skills using Mojo beyond the LearnMojoByFeanix content. Users can find reading materials (both online & offline), more coding challenges, videos tutorials on this list which will help them continue learning after completing this repository contents.
