@@ -1,0 +1,1 @@
+* **Getting Started Guide:** This document is intended to guide users who are completely new or want to refresh Mojo's basics with an overview of what the programming language entails. It covers essential topics such as how to install Mojo, its syntax features and rules.
