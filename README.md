@@ -1,6 +1,6 @@
 # LearnMojoByFeanix
 
-Welcome to the ultimate guide for mastering Mojo - the innovative programming language fusing Python's ease, C's performance and Rust's safety. This organized Github repository has been designed to help you track your progress as you follow along with Feanix's journey of learning Mojo.
+Welcome to the ultimate guide for mastering Mojo - the innovative programming language fusing Python's ease, C++'s performance and Rust's safety. This organized Github repository has been designed to help you track your progress as you follow along with Feanix's journey of learning Mojo.
 
 ## Getting Started
 If this is your first time delving into Mojo or want a refresher on its basics, check out our [Getting Started Guide](getting-started.md).
