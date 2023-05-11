@@ -3,9 +3,6 @@
 *Thus, understand there may indeed lead some unforeseeable gaps through completing every topic on this checklist or even render elements obsolete by technology advancing. Retain an open mindset towards maintaining flexible enough throughout your Mojo learning expedition! If any utilized sources during creating process are needed for referencing - always demonstrably research intellectual property rights/authorship standards listed below."*
 
 
-![Screenshot 2023-05-10 191038](https://github.com/Feanix-Fyre/LearnMojoByFeanix/assets/24631543/0c0b4704-018f-4665-8031-785662d8e609)
-
-
 | Topic                                         | Status    | Date Started | Progress Notebook (Messy) | Progress Notebook (Tidy) | Date Completed |
 |-----------------------------------------------|-----------|--------------|---------------------------|---------------------------|----------------|
 | Basic Programming Concepts                    |           |              |                           |                           |                |
